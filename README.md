@@ -1,2 +1,2 @@
 # Projects
-This repository include projects
+This repository include Student Management System Project
